@@ -134,8 +134,13 @@ body::-webkit-scrollbar-track {
     padding-left:1rem;
 }
 .labNav{
+  
   overflow: hidden;
   background-color: transparent;
+}
+.labNav a{
+  color: white;
+  text-decoration: none;
 }
 .labNav:after {
   content: " ";

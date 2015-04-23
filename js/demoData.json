@@ -1,0 +1,131 @@
+{
+  "selerityDocumentID": "SCGW_Default_666a5293_1f0d_4db6_a40c_00af5073327a_QhR",
+  "clientDocumentID": "",
+  "results": [
+    {
+      "resultType": "entity_relevance",
+      "selerityEntityID": "489cebd2-5ed0-4235-9d4e-2b5e7ab44f3c",
+      "clientReferenceData": {
+        "type": "equity",
+        "cIQId": "24937",
+        "primaryISIN": "US0378331005",
+        "YFId": null,
+        "primaryTicker": "AAPL",
+        "secondaryTickers": [
+          "0R2V.L",
+          "AAPL",
+          "AAPL.BA",
+          "AAPL.MX",
+          "AAPL34.SA",
+          "AAPL34F.SA",
+          "APC.BE",
+          "APC.DE",
+          "APC.DU",
+          "APC.HA",
+          "APC.HM",
+          "APC.SG"
+        ]
+      },
+      "relevance": 0.829453489627146,
+      "mentions": [
+        {
+          "string": "iPhone",
+          "positions": [
+            {
+              "start": 60,
+              "end": 66
+            },
+            {
+              "start": 894,
+              "end": 900
+            }
+          ]
+        },
+        {
+          "string": "Apple",
+          "positions": [
+            {
+              "start": 0,
+              "end": 5
+            },
+            {
+              "start": 390,
+              "end": 395
+            },
+            {
+              "start": 439,
+              "end": 444
+            },
+            {
+              "start": 711,
+              "end": 716
+            },
+            {
+              "start": 913,
+              "end": 918
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "resultType": "entity_relevance",
+      "selerityEntityID": "132c1f78-5cf5-400a-a372-132766558cef",
+      "clientReferenceData": {
+        "type": "equity",
+        "cIQId": "21835",
+        "primaryISIN": "US5949181045",
+        "YFId": null,
+        "primaryTicker": "MSFT",
+        "secondaryTickers": [
+          "0QYP.L",
+          "4338.HK",
+          "MSF.BE",
+          "MSF.DE",
+          "MSF.DU",
+          "MSF.HA",
+          "MSF.HM",
+          "MSF.SG",
+          "MSFT",
+          "MSFT.BA",
+          "MSFT.MX",
+          "MSFT34.SA",
+          "MSFT34F.SA"
+        ]
+      },
+      "relevance": 0.5758300821511999,
+      "mentions": [
+        {
+          "string": "Microsoft\u0027s",
+          "positions": [
+            {
+              "start": 623,
+              "end": 634
+            }
+          ]
+        },
+        {
+          "string": "Microsoft",
+          "positions": [
+            {
+              "start": 623,
+              "end": 632
+            }
+          ]
+        },
+        {
+          "string": "says Microsoft",
+          "positions": [
+            {
+              "start": 618,
+              "end": 632
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "requestTimestamp": "2015-03-20T20:06:17.545388028",
+  "responseTimestamp": "2015-03-20T20:06:18.566636309",
+  "status": "ok"
+}

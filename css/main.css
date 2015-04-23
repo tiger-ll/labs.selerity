@@ -402,6 +402,9 @@ preloader
     .brand a{
         font-size: smaller;
     }
+    .capture{
+      text-align: center;
+    }
 }
 
 /* ==========================================================================

@@ -100,7 +100,8 @@ body::-webkit-scrollbar-track {
 
 .intro{
 
-  height:30rem;
+  height:32rem;
+
 }
 .intro-text>h3{
   text-transform: uppercase;
@@ -112,6 +113,7 @@ body::-webkit-scrollbar-track {
     position: relative;
     text-align: center;
     top:40%;
+    margin-bottom: 1em;
 }
 
 .logo{
